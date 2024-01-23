@@ -1,0 +1,27 @@
+{
+  "name": "tubegram",
+  "version": "1.0.0",
+  "description": "save video to telegram from youtube ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artracurs/TubeGram.git"
+  },
+  "keywords": [
+    "tubegram"
+  ],
+  "author": "lanneq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.5"
+  },
+  "bugs": {
+    "url": "https://github.com/Artracurs/TubeGram/issues"
+  },
+  "homepage": "https://github.com/Artracurs/TubeGram#readme"
+}
